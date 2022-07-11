@@ -1,0 +1,7 @@
+out queue 
+1 2 3 4 5 
+queue after delete two elements
+3 4 5 
+queue after insert 
+3 4 5 4 
+queue empty
